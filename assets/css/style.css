@@ -1,0 +1,67 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Optima, sans-serif;
+}
+
+.container{
+    overflow: hidden;
+}
+/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+ #map {
+  height: 500px;
+  }
+  /* Optional: Makes the sample page fill the window. */
+ html, body {
+   height: 100%;
+     margin: 0;
+      padding: 0;
+                  }
+
+/* Employers Requirements */
+.tab {
+    float: left;
+    display: grid;
+}
+
+#wholeBody {
+    margin: auto;
+    width: 80%;
+}
+
+h1 {
+    padding: 0;
+    font-size: 50px!important;
+    text-decoration: underline solid rgb(68, 68, 68);
+}
+
+.card-header {
+    font-size: 20px;
+    background-color: rgb(164, 213, 214)!important;
+    text-decoration: underline solid rgb(68, 68, 68);
+    text-align: center;
+}
+
+/* Employers Requirements */
+aside {
+    font-size: 20px;
+    border: 2px solid rgb(253, 116, 116);
+    padding: 20px;
+    line-height: 1.5;
+}
+/* Employers Requirements */
+form{ 
+    pad: 30px;
+    width: 65%;
+    display: grid;
+    height: 700px;
+}
+
+.submit {
+    padding: 0;
+    background-color: rgb(255, 177, 242);
+    border: 3px solid;
+    border-radius: 3px;
+    border-style: outset;
+}
+
