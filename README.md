@@ -1,6 +1,8 @@
-# awesomeFive
+# Group Project-1 
 
-Hello... Thank you for visiting our app Part Time Gigs. You can access this page by clicking on the link https://rupagit.github.io/awesomeFive/
+team name: awesomeFive
+
+Part Time Gigs link: https://rupagit.github.io/awesomeFive/
 
 To login to our app, Please use credentials parttimegigs01@gmail.com / AwesomeFive
 
