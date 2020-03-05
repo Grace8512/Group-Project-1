@@ -1,6 +1,6 @@
 # Group Project-1 
 
-team name: awesomeFive
+Team Name: awesomeFive
 
 Part Time Gigs link: https://rupagit.github.io/awesomeFive/
 
@@ -21,4 +21,3 @@ You have 3 options on the landing page.
 
 3. Employer Dashboard: (User name: PARTTIMEGIGS1)
      Using this page, an employer can find all their published jobs. And user has options to edit/view details of the job. Also, the employer has the option to view all the bids associated with a job. 
-    
