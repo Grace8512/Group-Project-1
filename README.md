@@ -4,7 +4,7 @@ Team Name: awesomeFive
 
 Part Time Gigs link: https://rupagit.github.io/awesomeFive/
 
-To login to our app, Please use credentials parttimegigs01@gmail.com / AwesomeFive
+To login to our app, <strong>Please use credentials parttimegigs01@gmail.com / AwesomeFive</strong>
 
 Once you login to our App, You will be displayed with our landing page with brief description about our application. 
 
